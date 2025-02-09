@@ -3,13 +3,14 @@
 
 <b style="font-size:16px;color:blue">🛫 Proficient</b>
 <ul><li>Language: Python</li>
-<li>CI/CD Tools: Jenkins, CircleCI</li></ul>
+<li>CI/CD Tools: Jenkins, CircleCI, Vercel</li></ul>
 
 <b style="font-size:16px;color:blue">🌱 I’m currently learning</b>
-<ul><li>Spark</li></ul>
+<ul><li>React.js</li>
+<li>Java</li></ul>
 
 <b style="font-size:16px;color:blue">💞️ I’m looking to collaborate on</b>
-<ul><li>Projects related Big Data and Data Analytics</li></ul>
+<ul><li>Projects related to Machine Learning and Data Analytics</li></ul>
 
 <b style="font-size:16px;color:blue">📫 How to reach me</b>
 <ul><li>LinkedIn: https://www.linkedin.com/in/priyanshi-yadav-8b7970128</li></ul>
