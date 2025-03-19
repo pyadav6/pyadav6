@@ -1,5 +1,5 @@
 <b style="font-size:16px;color:blue">👋 Hello</b>
-<ul>I’m Priyanshi, an ethuiastic learner who is pursuing MS in Software Engineering. Earlier worked as an Automation Engineer and now wants to contribute as Software Developer. I like to experiments through building small projects, CICD and setup different tools.</ul>
+<ul>I’m Priyanshi, an ethuiastic learner who is pursuing MS in Software Engineering. Earlier worked as an Automation Engineer and now wants to contribute as AI/ML Engineer. I like to experiments through building small projects, CICD and setup different tools.</ul>
 
 <b style="font-size:16px;color:blue">🛫 Proficient</b>
 <ul><li>Language: Python</li>
