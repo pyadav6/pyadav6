@@ -17,7 +17,7 @@ A passionate engineer with a strong foundation in test automation, now transitio
 </ul>
 
 <b style="font-size:16px;color:blue">💞️ Open to Collaborations</b>
-<ul>I am excited to collaborate on:
+<ul>
   <li>🤖 AI/ML projects</li>
   <li>📊 Data analytics or visualization dashboards</li>  
   <li>🛠️ Tools that combine automation + intelligence</li>
