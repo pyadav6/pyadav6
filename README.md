@@ -23,9 +23,6 @@ A passionate engineer with a strong foundation in test automation, now transitio
   <li>🛠️ Tools that combine automation + intelligence</li>
 </ul>
 
-<b style="font-size:16px;color:blue">📫 Connect With Me</b>
-<ul><li>LinkedIn: https://www.linkedin.com/in/priyanshi-yadav-8b7970128</li></ul>
-
 <!---
 pyadav6/pyadav6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
